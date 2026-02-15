@@ -1,3 +1,2 @@
 clear
 ls
-bsdk

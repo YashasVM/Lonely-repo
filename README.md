@@ -1,2 +1,1 @@
-clear
-ls
+aGIN CHANGING THIS BULLSHIT 
